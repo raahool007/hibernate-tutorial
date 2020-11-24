@@ -19,7 +19,7 @@ public class CreateStudentDemo {
 		try {
 			// create the student object
 			System.out.println("Creating a new student object");
-			Student tempStudent = new Student("Paul","Wall","paul@luv2code.com");
+			Student tempStudent = new Student("Daffy","Donovan","daffy@luv2code.com");
 		
 			
 			// start a transaction
