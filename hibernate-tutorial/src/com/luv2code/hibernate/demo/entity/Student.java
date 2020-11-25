@@ -64,6 +64,10 @@ public class Student {
 		this.email = email;
 	}
 	
+	@Override
+	public String toString() {
+		return "Student [id=" + id + ", firstName=" + firstName + ", lastName=" + lastName + ", email=" + email + "]";
+	}
 	
 	
 	
